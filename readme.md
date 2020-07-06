@@ -16,7 +16,7 @@ All the simulations have been performed using the following settings:
 
 ### Random
 #### Aisle distancing: 1.0m
-[![Random](recordings/random-1m.gif)](https://youtu.be/Rd2BRrCPVbQ)
+[![Random](recordings/random-1m.gif)](https://youtu.be/NduXKpdeSmM)
 #### Aisle distancing: 2.0m
 [![Random](recordings/random-2m.gif)](https://youtu.be/otVWfPqwZoE)
 ### Adapted Back-to-front
@@ -46,7 +46,7 @@ All the simulations have been performed using the following settings:
 [![WilMA-Spread-Back-to-front](recordings/wilma-spread-btf-2m.gif)](https://youtu.be/VcnQ8NDSIYw)
 ### Reverse pyramid - Gradual
 #### Aisle distancing: 1.0m
-[![Reverse pyramid - Gradual](recordings/rp-gradual-1m.gif)](https://youtu.be/KxzNQ2m5skA)
+[![Reverse pyramid - Gradual](recordings/rp-gradual-1m.gif)](https://youtu.be/igAkLKgY9WI)
 #### Aisle distancing: 2.0m
 [![Reverse pyramid - Gradual](recordings/rp-gradual-2m.gif)](https://youtu.be/G8O041sOsHM)
 ### Reverse pyramid - Steep
